@@ -1,0 +1,181 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.000
+नमस्ते और स्वागत है मेरे Python crash course में।
+
+2
+00:00:04.000 --> 00:00:09.000
+इस tutorial में हम syntax. variables और data types सीखेंगे।
+
+3
+00:00:09.000 --> 00:00:13.000
+हम numbers. strings. boolean values और operators भी देखेंगे।
+
+4
+00:00:13.000 --> 00:00:18.000
+साथ ही हम loops. functions. classes और objects समझेंगे।
+
+5
+00:00:18.000 --> 00:00:24.000
+अगर ये सब अभी confusing लग रहा है. तो पूरा tutorial देखें।
+
+6
+00:00:24.000 --> 00:00:36.000
+अंत तक आपको इन सभी concepts की अच्छी understanding हो जाएगी।
+
+7
+00:00:36.000 --> 00:00:49.000
+चलिए शुरुआत करते हैं और सबसे पहले comments को समझते हैं।
+
+8
+00:00:49.000 --> 00:00:56.000
+comments का उपयोग Python code को explain करने के लिए होता है।
+
+9
+00:00:56.000 --> 00:01:02.000
+comment हमेशा # से शुरू होता है और Python इसे ignore करता है।
+
+10
+00:01:02.000 --> 00:01:08.000
+आप comments को line की शुरुआत या end में लिख सकते हैं।
+
+11
+00:01:08.000 --> 00:01:20.000
+multiple lines के लिए triple quotes का उपयोग किया जा सकता है।
+
+12
+00:01:20.000 --> 00:01:28.000
+अब variables को देखते हैं।
+
+13
+00:01:28.000 --> 00:01:36.000
+variable तब बनता है जब आप उसे value assign करते हैं।
+
+14
+00:01:36.000 --> 00:01:44.000
+example: x = 10. जहाँ x variable है।
+
+15
+00:01:44.000 --> 00:01:52.000
+print(x) करने पर output 10 मिलेगा।
+
+16
+00:01:52.000 --> 00:02:02.000
+variables में number या string जैसे data store कर सकते हैं।
+
+17
+00:02:02.000 --> 00:02:12.000
+type casting के लिए string(). int() और float() का उपयोग होता है।
+
+18
+00:02:12.000 --> 00:02:23.000
+strings single या double quotes में लिखी जाती हैं।
+
+19
+00:02:23.000 --> 00:02:30.000
+variable names case-sensitive होते हैं।
+
+20
+00:02:30.000 --> 00:02:42.000
+अब data types जैसे str. int. float. list. tuple और bool देखते हैं।
+
+21
+00:02:42.000 --> 00:02:50.000
+type() function से data type पता किया जा सकता है।
+
+22
+00:02:50.000 --> 00:03:04.000
+int whole numbers होते हैं और float decimal numbers होते हैं।
+
+23
+00:03:04.000 --> 00:03:17.000
+strings text होती हैं और quotes में लिखी जाती हैं।
+
+24
+00:03:17.000 --> 00:03:27.000
+len() function से string की length मिलती है।
+
+25
+00:03:27.000 --> 00:03:38.000
+boolean values True और False होती हैं।
+
+26
+00:03:38.000 --> 00:03:48.000
+comparisons जैसे 10 > 9 True return करते हैं।
+
+27
+00:03:48.000 --> 00:04:03.000
+if statement condition check करता है।
+
+28
+00:04:03.000 --> 00:04:16.000
+bool() function से values evaluate होती हैं।
+
+29
+00:04:16.000 --> 00:04:29.000
+empty values. 0 और None False होते हैं।
+
+30
+00:04:29.000 --> 00:04:48.000
+operators जैसे +. -. *. % और assignment operators उपयोग होते हैं।
+
+31
+00:04:48.000 --> 00:05:10.000
+lists multiple items store करती हैं और [] में लिखी जाती हैं।
+
+32
+00:05:10.000 --> 00:05:28.000
+list ordered होती है और duplicate values allow करती है।
+
+33
+00:05:28.000 --> 00:05:46.000
+tuple immutable होता है और () में लिखा जाता है।
+
+34
+00:05:46.000 --> 00:06:02.000
+set unordered होता है और duplicates allow नहीं करता।
+
+35
+00:06:02.000 --> 00:06:18.000
+dictionary key-value pairs store करता है।
+
+36
+00:06:18.000 --> 00:06:35.000
+if. elif और else conditions के लिए उपयोग होते हैं।
+
+37
+00:06:35.000 --> 00:06:50.000
+Python indentation पर depend करता है।
+
+38
+00:06:50.000 --> 00:07:10.000
+while loop तब तक चलता है जब तक condition True हो।
+
+39
+00:07:10.000 --> 00:07:25.000
+for loop sequence पर iterate करता है।
+
+40
+00:07:25.000 --> 00:07:45.000
+break loop को रोकता है और continue next iteration पर जाता है।
+
+41
+00:07:45.000 --> 00:08:05.000
+functions def keyword से define होती हैं।
+
+42
+00:08:05.000 --> 00:08:25.000
+arguments functions को data देने के लिए उपयोग होते हैं।
+
+43
+00:08:25.000 --> 00:08:45.000
+Python object-oriented language है और class व object का उपयोग होता है।
+
+44
+00:08:45.000 --> 00:09:05.000
+class एक blueprint होता है और object उसका instance होता है।
+
+45
+00:09:05.000 --> 00:09:28.000
+धन्यवाद. अगली वीडियो में मिलते हैं।
